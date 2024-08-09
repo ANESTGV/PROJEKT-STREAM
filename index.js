@@ -36,7 +36,7 @@ client.on('ready', async () => {
     .setApplicationId('1265825059692609587')
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
-    .setState('𝐌𝐚 𝐦𝐚𝐦𝐞𝐫')
+    .setState('𝐌𝐚 𝐌𝐞𝐦𝐞𝐫')
     .setName('𝐀𝐍𝐄𝐒 𝐓𝐆𝐕')
     .setDetails(`𝐓𝐆𝐕 𝐍𝐔𝐌𝐁𝐄𝐑 𝟏`)
     .setStartTimestamp(Date.now())
