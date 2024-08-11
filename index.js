@@ -40,7 +40,7 @@ client.on('ready', async () => {
     .setName('𝐀𝐍𝐄𝐒 𝐓𝐆𝐕')
     .setDetails(`𝐓𝐆𝐕 𝐍𝐔𝐌𝐁𝐄𝐑 𝟏`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1185568159655264308/1272323939259121766/GIF-240811_233107.gif?ex=66ba8f81&is=66b93e01&hm=42d1c8fcbaafac45c8294abcb0ac1ab188542482a974109d41c16e8c169874a5&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1185568159655264308/1272332550639058967/GIF-240812_001119.gif?ex=66ba9786&is=66b94606&hm=9f136b77b017f5deaed8b0840bca152e92a65dc6a109d88c92e1691ae9365fca&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('𝐓𝐆𝐕') 
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1185568159655264308/1271472785247572039/IMG_20240809_151826.jpg?ex=66b776ce&is=66b6254e&hm=73e7b0d5cc385cf56a7d6bca6e90c60ac5fba39b0b16e00b2d45e896f4e71c3a&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
