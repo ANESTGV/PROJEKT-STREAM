@@ -36,9 +36,9 @@ client.on('ready', async () => {
     .setApplicationId('1265825059692609587')
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
-    .setState('𝑳7𝑨𝑱 𝑴𝑰𝑹𝑶𝑼 𝑲𝑯𝑶𝒀𝑨 💗')
-    .setName('𝑨𝑵𝑨 𝑯𝑶𝑾𝑨 𝑪𝑯𝑩𝑩 𝑮𝑨3')
-    .setDetails(`𝐓𝐆𝐕 𝑬𝑳 𝑴𝑨𝑮𝑯𝑩𝑶𝑵`)
+    .setState('𝑳𝟕𝑨𝑱 𝑴𝑰𝑹𝑶𝑼 𝑲𝑯𝑶𝒀𝑨 💪')
+    .setName('𝑻𝑮𝑽 𝑯𝑶𝑺𝑻 ✨')
+    .setDetails(`𝐓𝐆𝐕 𝑴𝑨𝑮𝑯𝑩𝑶𝑵 💔`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/1185568159655264308/1272337476136079401/GIF-240812_002903.gif?ex=66ba9c1d&is=66b94a9d&hm=539bb2b29874b13ff0e247f93de48838ac60307f13a02a2ac6334c1902ef1d3e&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('𝐓𝐆𝐕') 
