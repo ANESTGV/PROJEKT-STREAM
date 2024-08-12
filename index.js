@@ -42,7 +42,7 @@ client.on('ready', async () => {
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://media.discordapp.net/attachments/1185568159655264308/1272337476136079401/GIF-240812_002903.gif?ex=66ba9c1d&is=66b94a9d&hm=539bb2b29874b13ff0e247f93de48838ac60307f13a02a2ac6334c1902ef1d3e&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('𝐓𝐆𝐕') 
-    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1185568159655264308/1271472785247572039/IMG_20240809_151826.jpg?ex=66b776ce&is=66b6254e&hm=73e7b0d5cc385cf56a7d6bca6e90c60ac5fba39b0b16e00b2d45e896f4e71c3a&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1185568159655264308/1272534058068344955/GIF-240812_133441.gif?ex=66bb5331&is=66ba01b1&hm=9e8c5da352b229adc7714a30584694dbf873e48ccdb9f9af5ea80de80c0ae8f3&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
     .addButton('Instagram', 'https://www.instagram.com/aneeesbchf_off?igsh=YXAwcmJmNmZ3YThk');
 
