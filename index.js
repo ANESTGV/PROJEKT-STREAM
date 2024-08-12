@@ -37,12 +37,12 @@ client.on('ready', async () => {
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
     .setState('𝑳𝟕𝑱 𝑴𝑰𝑹𝑶𝑼 𝑲𝑯𝑶𝒀𝑨')
-    .setName('𝑨𝒏𝒂 𝑯𝑶𝑾𝑨 𝑪𝑯𝑩𝑩 𝑮𝑨3 ✨')
-    .setDetails(`𝐓𝐆𝐕 𝑴𝑨𝑮𝑯𝑩𝑶𝑵`)
+    .setName('𝑻𝑮𝑽 𝑯𝑶𝑺𝑻')
+    .setDetails(`𝑮𝑨𝑳𝑶𝑯𝑨 𝑵𝑨𝑺 𝑩𝑬𝑲𝑹𝑰 🖤`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://media.discordapp.net/attachments/1185568159655264308/1272337476136079401/GIF-240812_002903.gif?ex=66ba9c1d&is=66b94a9d&hm=539bb2b29874b13ff0e247f93de48838ac60307f13a02a2ac6334c1902ef1d3e&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1185568159655264308/1272647058460901446/GIF-240812_210107.gif?ex=66bbbc6f&is=66ba6aef&hm=9e4f36c0fca165eec1bfc7e599e7d7e6c189954dd0dfea8e5fd60352458cc60b&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('𝐓𝐆𝐕') 
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/1185568159655264308/1272559865260408873/discord_fake_avatar_decorations_1723472072587.gif?ex=66bb6b3a&is=66ba19ba&hm=b5e32a0d410178755a6080de5c1040bf447ff8f2b72117d8a173707a8ee3f746&') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://media.discordapp.net/attachments/1185568159655264308/1272647148294377522/IMG_20240812_151228.jpg?ex=66bbbc84&is=66ba6b04&hm=983de548fb389ffdbedf46c31819d762de26dbf2354a80a4121665bc20caabb5&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
     .addButton('Instagram', 'https://www.instagram.com/aneeesbchf_off?igsh=YXAwcmJmNmZ3YThk');
 
