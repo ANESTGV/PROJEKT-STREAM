@@ -40,7 +40,7 @@ client.on('ready', async () => {
     .setName('كرديت رخيص للبيع')
     .setDetails(`𝑲𝑶𝑳𝑪𝑯𝑰 𝑻𝑩𝑫𝑬𝑳`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1185568159655264308/1275440179204718602/IMG_20240820_140345.jpg?ex=66c5e5bb&is=66c4943b&hm=34a109070675ae758172f056dc9830c08bc52adc42abbcf53132c79955aebaa3&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/emojis/1241624634122698752.gif?v=1&size=48&quality=lossless') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('𝐓𝐆𝐕') 
     .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1185568159655264308/1272647148294377522/IMG_20240812_151228.jpg?ex=66c59fc4&is=66c44e44&hm=f94bf5c9e7d7d98afd7f3e0b076af6c6915f5a2d1216b7450680d2d834260bbf&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
