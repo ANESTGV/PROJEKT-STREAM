@@ -37,10 +37,10 @@ client.on('ready', async () => {
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
     .setState('𝑨𝑵𝑬𝑺 𝑻𝑮𝑽')
-    .setName('راني عيان')
+    .setName('𝐑𝐎𝐇𝐎 9𝐖𝐃𝐎')
     .setDetails(`𝑲𝑶𝑳𝑪𝑯𝑰 𝑻𝑩𝑫𝑬𝑳`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1185568159655264308/1275440179204718602/IMG_20240820_140345.jpg?ex=66cb2bbb&is=66c9da3b&hm=d3b6ff11e4d337544ceb7102ec1bebec3dad2e690343bee3e49cac283ff39eda&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1185568159655264308/1275440179204718602/IMG_20240820_140345.jpg?ex=66cdcebb&is=66cc7d3b&hm=d1045350acb41345bc92786224b6e3e17f09e045bb035c52049357f24932b193&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('𝐓𝐆𝐕') 
     .setAssetsSmallImage('https://cdn.discordapp.com/emojis/1263427789093212170.gif?v=1&size=48&quality=lossless') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
