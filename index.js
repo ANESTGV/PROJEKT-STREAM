@@ -37,7 +37,7 @@ client.on('ready', async () => {
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
     .setState('𝑨𝑵𝑬𝑺 𝑻𝑮𝑽')
-    .setName('لا تقلق لاجيري غادي تتناك')
+    .setName('لا تقلق يا طائرة لقلق ✅')
     .setDetails(`𝑲𝑶𝑳𝑪𝑯𝑰 𝑻𝑩𝑫𝑬𝑳`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1185568159655264308/1275440179204718602/IMG_20240820_140345.jpg?ex=66cdcebb&is=66cc7d3b&hm=d1045350acb41345bc92786224b6e3e17f09e045bb035c52049357f24932b193&') //You can put links in tenor or discord and etc.
