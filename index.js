@@ -36,9 +36,9 @@ client.on('ready', async () => {
     .setApplicationId('1265825059692609587')
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
-    .setState('𝑨𝑵𝑬𝑺 𝑻𝑮𝑽')
+    .setState('➤ 𝑨𝑵𝑬𝑺 𝑻𝑮𝑽')
     .setName('بوصبع خصك صبع ؟')
-    .setDetails(`𝐍𝐈𝐊 𝐌𝐚 𝐕𝐢𝐞`)
+    .setDetails(`➤ 𝐍𝐈𝐊 𝐌𝐚 𝐕𝐢𝐞`)
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1185568159655264308/1279886989755420682/IMG_2754.gif?ex=66d6bbe5&is=66d56a65&hm=44a06728fe06ac6d3f56b20a812e7e23479c989192cdef20b8a3d7452794e9b5&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('𝐓𝐆𝐕') 
