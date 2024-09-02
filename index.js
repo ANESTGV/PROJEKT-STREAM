@@ -37,12 +37,12 @@ client.on('ready', async () => {
     .setType('PLAYING')
     .setURL('https://www.twitch.tv/apparentlyjack_rl') 
     .setState('𝑨𝑵𝑬𝑺 𝑻𝑮𝑽')
-    .setName('لا تقلق يا طائرة لقلق ✅')
-    .setDetails(`𝑲𝑶𝑳𝑪𝑯𝑰 𝑻𝑩𝑫𝑬𝑳`)
+    .setName('بوصبع خصك صبع ؟')
+    .setDetails(`𝐍𝐈𝐊 𝐌𝐚 𝐕𝐢𝐞`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1185568159655264308/1275440179204718602/IMG_20240820_140345.jpg?ex=66cdcebb&is=66cc7d3b&hm=d1045350acb41345bc92786224b6e3e17f09e045bb035c52049357f24932b193&') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://cdn.discordapp.com/attachments/1185568159655264308/1279886989755420682/IMG_2754.gif?ex=66d6bbe5&is=66d56a65&hm=44a06728fe06ac6d3f56b20a812e7e23479c989192cdef20b8a3d7452794e9b5&') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('𝐓𝐆𝐕') 
-    .setAssetsSmallImage('https://cdn.discordapp.com/emojis/1263427789093212170.gif?v=1&size=48&quality=lossless') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('https://cdn.discordapp.com/attachments/1185568159655264308/1278080062943531028/IMG_2702.gif?ex=66d6c090&is=66d56f10&hm=ff0207227463bdd6e0ae0b327a2b393ad2add41fee44cd87d0cb29e00c620eac&') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('Small Text') 
     .addButton('Instagram', 'https://www.instagram.com/aneeesbchf_off?igsh=YXAwcmJmNmZ3YThk');
 
